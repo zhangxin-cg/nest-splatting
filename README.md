@@ -1,21 +1,18 @@
 # Neural Shell Texture Splatting (ICCV 2025)
 
-![Teaser](docs/teaser.png)
+![Teaser](./assets/teaser.png)
 
-[**Paper**](./paper.pdf) | [**Video**](https://github.com/zhangxin-cg/nest-splatting) | [**Project Page**](https://github.com/zhangxin-cg/nest-splatting)
+[**Paper**](https://arxiv.org/pdf/2507.20200) | [**Project Page**](https://zhangxin-cg.github.io/nest-splatting/)
 
-We present **Neural Shell Texture Splatting**, a novel method for xxx
+<!-- We present **Neural Shell Texture Splatting**. -->
 
-## 🔥 Highlights
+## 🚧 Constructing
 
-- High-fidelity texture rendering using shell-based representation
-- Efficient Gaussian splatting with detailed texture control
-- Supports real-time novel view synthesis
+The codebase is currently being organized and prepared for public release.  
+Thank you for your patience, and please check back soon for updates!
 
 ## 📦 Code
 
 Coming soon
 
-## 📄 Citation
 
-xxx
